@@ -2,4 +2,4 @@
 Theory of Computing  
 Completed 2024 semester 1 
 
-![image](https://github.com/user-attachments/assets/a4cef6bb-bba0-4554-8682-2df4ccdbcc29)
+![Conways_game_of_life_breeder_animation](https://github.com/user-attachments/assets/e202bfd7-0205-4d49-9361-c53036447bd0)
