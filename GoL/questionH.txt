@@ -1,0 +1,24 @@
+Turing machine consists of:
+
+1. A tape divided into cells, each containing a symbol.
+2. A read/write head that can move left or right along the tape.
+3. A finite set of states.
+4. A transition function that determines how the machine 
+transitions between states based on the current symbol under the read/write head.
+
+GoL:
+Tape: The GoL grid serves as a tape. Each cell of the grid can be considered 
+analogous to a cell on the Turing machine's tape. The state of each cell 
+(alive or dead) represents a symbol on the tape.
+
+Read/Write Head: The pattern includes mechanisms (e.g., glider guns, oscillators)
+that move across the grid. These mechanisms effectively act as the read/write head, 
+altering the state of cells they encounter.
+
+States: The Turing machine pattern likely employs different configurations of 
+cells to represent different states of the Turing machine.
+
+Transition Function: The behavior of the Turing machine is encoded in the 
+interactions between the cells within the GoL grid. Each configuration of cells 
+represents a state of the Turing machine, and the evolution of these configurations 
+based on the GoL rules effectively simulates the transition function.
